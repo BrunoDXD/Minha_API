@@ -46,3 +46,6 @@ Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)
 2024-04-03 09:08:17 11644 [Note] Event Scheduler: Loaded 0 events
 2024-04-03 09:08:17 11644 [Note] D:\ARQUIVOS\0.ETEC\AULAS\BANCO DE DADOS\USBWebserver v8.6/mysql/bin/mysqld_usbwv8.exe: ready for connections.
 Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)
+2024-10-22 21:17:11 5164 [Note] Event Scheduler: Loaded 0 events
+2024-10-22 21:17:11 5164 [Note] C:\Users\Administrador\Documents\bruno-silva\4\Minha_API\USBWebserver v8.6/mysql/bin/mysqld_usbwv8.exe: ready for connections.
+Version: '5.6.13'  socket: ''  port: 3307  MySQL Community Server (GPL)
